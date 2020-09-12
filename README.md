@@ -2,7 +2,7 @@
 
 A simple responsive todo app using local storage.
 
-Live demo [here](https://objective-lichterman-dfe758.netlify.app/).
+Live demo [here](https://clever-newton-b5201a.netlify.app/).
 
 User can:
 
